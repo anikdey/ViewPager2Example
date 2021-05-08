@@ -1,1 +1,1 @@
-# ViewPager2Example
+Recently I was working with a project where it was required to implement a TabLayout where I used ViewPager2. I had to explore the internet regarding few issues and thought of sharing it with you guys and for future reference just to copy & paste.
