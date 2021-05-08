@@ -159,6 +159,13 @@ class LoginGuideActivity : AppCompatActivity() {
             )
         )
         list.add(
+                SliderItem(
+                        Constants.VIEW_TYPE_TEXT_IMAGE,
+                        "Your fourth instruction goes here...",
+                        R.drawable.child
+                )
+        )
+        list.add(
             SliderItem(
                 Constants.VIEW_TYPE_ONLY_TEXT,
                 "Your third instruction goes here...",

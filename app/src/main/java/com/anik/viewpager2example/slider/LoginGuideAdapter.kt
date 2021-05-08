@@ -61,5 +61,4 @@ class LoginGuideAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
         }
     }
 
-
 }

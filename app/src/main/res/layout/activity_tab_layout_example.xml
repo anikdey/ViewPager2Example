@@ -14,7 +14,6 @@
             android:layout_height="wrap_content"
             app:tabTextColor="@color/black_light"
             app:tabSelectedTextColor="@color/teal_700"
-            app:tabRippleColor="@null"
             app:tabBackground="@drawable/tab_indicator_color"
             app:tabIndicatorColor="@color/red"
             app:tabIndicatorHeight="5dp"

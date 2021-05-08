@@ -44,16 +44,6 @@
                 android:visibility="gone"
                 android:text="Done"/>
 
-            <com.anik.viewpager2example.customview.DottedCircle
-                xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:app="http://schemas.android.com/apk/res-auto"
-                android:id="@+id/dotTextView"
-                android:layout_width="20dp"
-                android:layout_height="20dp"
-                android:layout_centerInParent="true"
-                app:dOuterCircleColor="@color/green"
-                app:dInnerCircleColor="@color/purple_200"/>
-
         </RelativeLayout>
 
         <LinearLayout
